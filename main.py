@@ -16,13 +16,6 @@ manager.input_product(pr1)
 manager.input_product(pr2)
 manager.input_product(pr3)
 
-<<<<<<< HEAD
-=======
-#prikaz proizvoda
-manager.display_products()
-
-#prikaz ukupne vrednosti inventara
-manager.total_value()
 
 #kreiram instancu klase Cart
 c=cart.Cart()
@@ -37,4 +30,3 @@ c.cart_value()
 
 
 
->>>>>>> add-cart-functionality
